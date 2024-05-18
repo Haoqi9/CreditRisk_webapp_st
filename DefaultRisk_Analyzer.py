@@ -216,6 +216,7 @@ title1.image(
 title2.write('')
 title2.markdown("<h1 style=text-align: right; color: black; font-size: 50px;'>RISK SCORE ANALYZER</h1>", unsafe_allow_html=True)
 title2.caption('Author: Hao, Qi Xu')
+title2.caption('Source code: https://github.com/Haoqi9/CreditRisk_webapp_st/tree/master')
 st.write('___')
 
 # Guide
