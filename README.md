@@ -13,3 +13,6 @@
 ![display1](./Images/display1.png)
 ![display2](./Images/display2.png)
 ![display3](./Images/display3.png)
+
+# Demo
+![def_risk](https://github.com/Haoqi9/CreditRisk_webapp_st/assets/159468032/3550b824-08e0-4cf6-b013-104e0c2cf607)
